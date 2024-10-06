@@ -2,6 +2,8 @@
 
 This project is a simple web application that implements a login and registration system using HTML5, CSS3, and JavaScript. 
 
+project Url:  https://t-neha.github.io/login_register_page/
+
 Technologies Used:
 HTML5
 CSS3
